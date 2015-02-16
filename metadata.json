@@ -1,0 +1,16 @@
+{
+  "name": "puppetserver_gem",
+  "version": "0.0.1",
+  "author": "Paul Stack",
+  "summary": "Puppetserver Gem Module",
+  "license": "MIT",
+  "source": "https://github.com/puppetlabs/stack72/puppetserver_gem",
+  "project_page": "https://github.com/stack72/puppetserver_gem",
+  "issues_url": "https://github.com/stack72/puppetserver_gem/issues",
+  "requirements": [
+
+  ],
+  "dependencies": [
+
+  ]
+}
